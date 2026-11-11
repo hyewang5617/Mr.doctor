@@ -1,2 +1,9 @@
-# Plumproject
-Plum project 1 team
+# Mr.doctor
+
+폐병원을 탐험하며 기억을 되찾는 Unity 2D 공포 게임. 과거 PLUM 프로젝트를 이어서 시작부터 엔딩까지 완성하는 것이 현재 목표다.
+
+- Unity 프로젝트: `PLumproject1/` (기록된 에디터 버전: `6000.0.43f1`)
+- [현재 문서와 읽는 순서](docs/README.md)
+- [에이전트 작업 규칙](AGENTS.md)
+
+기획은 통합 초안 단계이며, 현재 실행 가능 여부와 전체 게임 완성은 아직 검증되지 않았다.
